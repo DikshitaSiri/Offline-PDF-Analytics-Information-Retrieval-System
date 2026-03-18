@@ -1,0 +1,1 @@
+This project is an offline AI-powered PDF chatbot that allows users to upload a document and ask questions based on its content. It uses Retrieval-Augmented Generation (RAG) with semantic search and vector embeddings to fetch relevant information and generate accurate responses, ensuring fast, privacy-focused document analysis without internet access.
